@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "블로그 시작!"
 date: 2018-08-16 16:35:00
 categories: etc
