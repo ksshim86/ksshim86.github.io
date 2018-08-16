@@ -1,11 +1,10 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2018-08-16 16:01:28 -0400
-categories: jekyll update
+title: "블로그 시작!"
+date: 2018-08-16 16:20:00
+categories: etc
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+만들고 싶은 프로그램이 생겨, `사이드 프로젝트`를 진행하려 하는데...
+새로운 프레임워크를 공부해야 하고, 알고 있는 지식도 다른 누군가에게 잘 설명할 수 있는 개발자가 되고 싶다.
+게으른데 욕심이 많다. 어쨌든 `사이트 프로젝트`를 진행하고 공부하면서 기록해야 할 필요성을 느꼈기에
+블로그를 시작한다.
