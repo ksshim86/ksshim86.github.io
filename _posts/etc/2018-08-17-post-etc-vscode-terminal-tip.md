@@ -9,10 +9,8 @@ tags:
   - Visual Studio Code
   - terminal
 ---
-소스를 커밋하기 위해 `Git bash` 를 열어야 할 때도 있고, 서버를  
-실행하기 위해 `Ruby cmd`를 열어야 할 때도 있고,  
-그냥 `cmd` 를 열어야 할 때도 있는데 따로 프로그램으로 열기  
-귀찮아 `vscode` 에서 여러 개 사용하는 방법을 찾아서 정리해보았다. 
+소스를 커밋하기 위해 `Git bash` 를 열어야 할 때도 있고, 서버를 실행하기 위해 `Ruby cmd` 를 열어야 할 때도 있고, 
+그냥 `cmd` 를 열어야 할 때도 있는데 따로 프로그램으로 열기 불편해서 `vscode` 터미널에서 여러 개 사용하는 방법을 찾아서 정리해보았다. 
 
 ## 1. 'Shell Launcher' 확장 프로그램 설치
 * 링크: <https://marketplace.visualstudio.com/items?itemName=Tyriar.shell-launcher>
