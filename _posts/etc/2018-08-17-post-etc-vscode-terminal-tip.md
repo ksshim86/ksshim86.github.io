@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: "Visual Studio Code 터미널 여러 개 사용하기"
 date: 2018-08-17 17:10:00
 categories: 
