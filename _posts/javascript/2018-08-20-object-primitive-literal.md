@@ -39,3 +39,9 @@ let obj2 = {}
 ~~~
 
 `obj`, `obj2` 변수를 `Object` 객체로 선언했습니다. `obj2` 처럼 선언한 표현방식이 리터럴 표현방식입니다.  
+
+<!-- 
+참고 사이트
+- http://asfirstalways.tistory.com/21 
+- http://blog.kazikai.net/?p=45
+-->
